@@ -3,6 +3,7 @@
 **`DataBase Administrator`**
 
 Me chamo Ryan Augusto Moreira, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na PEI E.E M.MDC, com o curso técnico em ADS. Atualmente, estou esperando a minha documentação ser aprovada na faculdade UNICID. Sou fascinado por tecnologia e estou em busca da minha primeira experiência na área.
+<br/>
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
