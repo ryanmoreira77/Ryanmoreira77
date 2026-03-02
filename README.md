@@ -2,7 +2,7 @@
 
 **`DataBase Administrator`**
 
-Me chamo Ryan Augusto Moreira, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na PEI E.E M.MDC, com o curso técnico em ADS. Atualmente, estou esperando a minha documentação ser aprovada na faculdade UNICID. Sou fascinado por tecnologia e estou em busca da minha primeira experiência na área.
+Me chamo Ryan Augusto Moreira, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na PEI E.E M.MDC, com o curso técnico em ADS. Atualmente, estou cursando ADS na Unicid (Universidade Cidade de São Paulo). Sou fascinado por tecnologia e estou em busca da minha primeira experiência na área.
 <br/>
         <img 
             alt="Seguidores" 
