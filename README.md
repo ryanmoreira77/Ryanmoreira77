@@ -2,7 +2,15 @@
 
 **`DataBase Administrator`**
 
-Me chamo Ryan Augusto Moreira, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na PEI E.E M.MDC, com o curso técnico em ADS. Atualmente, estou cursando ADS na Unicid (Universidade Cidade de São Paulo). Sou fascinado por tecnologia e estou em busca da minha primeira experiência na área.
+# 👋 Olá, eu me chamo Ryan Moreira
+
+Tenho 18 anos, sou natural de São Paulo e apaixonado por tecnologia e análise de dados.
+
+Concluí o Ensino Médio integrado ao curso Técnico em Análise e Desenvolvimento de Sistemas (ADS) na PEI E.E. M.MDC. Atualmente, curso Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID).
+
+Tenho interesse nas áreas de Banco de Dados, Análise de Dados e Business Intelligence, desenvolvendo projetos com SQL, Power BI e Python para aprimorar meus conhecimentos e transformar dados em informações que apoiam a tomada de decisões.
+
+Estou em busca da minha primeira oportunidade na área de tecnologia, onde possa aprender, crescer profissionalmente e contribuir com soluções inovadoras.
 <br/>
         <img 
             alt="Seguidores" 
